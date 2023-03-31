@@ -8,12 +8,6 @@
   display: none;
 }
 
-
-.dropdown .-hover > span {
-  text-decoration: underline dashed;
-  font-style: italic;
-}
-
 .dropdown .-arrow::after {
   content: '\25BC';
   font-size: 50%;
