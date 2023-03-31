@@ -8,9 +8,6 @@
   display: none;
 }
 
-.dropdown .-hover {
-  color: #fdac7a;
-}
 
 .dropdown .-hover > span {
   text-decoration: underline dashed;
@@ -40,10 +37,6 @@
   display: block;
   text-decoration: none;
   color: inherit;
-}
-
-.dropdown .-list a:hover {
-  color: #fdac7a;
 }
 
 .dropdown #menu:checked ~ .-list {
